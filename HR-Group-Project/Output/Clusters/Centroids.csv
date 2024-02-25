@@ -1,0 +1,4 @@
+Salary,EngagementSurvey,SpecialProjectsCount,DaysLateLast30,Absences,EmploymentYears,EmpStatusID,PerfScoreID,Sex,MaritalDesc,EmploymentStatus,Department,RecruitmentSource,EmpSatisfaction,JobLevel,AgeCategory
+98019.94642857143,4.148392857142864,4.642857142857143,0.19642857142857142,10.428571428571429,4.160714285714286,1,3,M ,Married,Active,IT/IS,Indeed,3,Junior-Experienced,Early Adult
+66184.66176470589,4.139191176470586,0.5441176470588235,0.3897058823529412,10.389705882352942,5.029411764705882,1,3,F,Single,Active,Production       ,Indeed,3,Junior-Experienced,Mid Adult
+53102.02521008404,4.05857142857143,0.37815126050420167,0.5462184873949579,9.974789915966387,5.050420168067227,1,3,F,Single,Active,Production       ,LinkedIn,4,Junior-Experienced,Senior
